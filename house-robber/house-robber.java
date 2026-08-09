@@ -24,6 +24,7 @@ class Solution {
 
 /*
 //======Tabulation=====//
+// Time Complexity: O(n) | Space Complexity: O(n)
 class Solution {
     public int rob(int[] nums) {
         int n = nums.length;
@@ -48,6 +49,7 @@ class Solution {
 
  /*
 //======Memoisation======//
+// Time Complexity: O(n) | Space Complexity: O(n)
 class Solution {
     public int rob(int[] nums) {
         int n = nums.length;
@@ -72,6 +74,7 @@ class Solution {
 
 /*
 //=====Recursive=====//
+// Time Complexity: O(2^n) | Space Complexity: O(n)
 class Solution {
     public int rob(int[] nums) {
        return solve(nums.lenght-1, nums); 
