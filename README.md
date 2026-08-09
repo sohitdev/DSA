@@ -19,6 +19,7 @@ Here is a summary of the problems I've solved so far:
 | Problem                                                    | Solution & Explanation                                             | Difficulty |
 | :--------------------------------------------------------- | :----------------------------------------------------------------- | :--------- |
 | [Two Sum](https://leetcode.com/problems/two-sum/)          | [Solution](./two-sum/)                                             | Easy       |
+| 198. House Robber                                         | [Solution](./house-robber)                                        | Medium     |
 | 13. Roman to Integer                                       | [Solution](./roman-to-integer)                                     | Easy       |
 | 485. Max Consecutive Ones                                  | [Solution](./max-consecutive-ones)                                 | Easy       |
 | 509. Fibonacci Number                                      | [Solution](./fibonacci-number)                                     | Easy       |
