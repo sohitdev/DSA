@@ -23,6 +23,7 @@ Here is a summary of the problems I've solved so far:
 | 213. House Robber II                                      | [Solution](./house-robber-ii)                                     | Medium     |
 | 62. Unique Paths                                           | [Solution](./unique-paths)                                         | Medium     |
 | 63. Unique Paths II                                        | [Solution](./unique-paths-ii)                                      | Medium     |
+| 64. Minimum Path Sum                                       | [Solution](./min-path-sum)                                         | Medium     |
 | 13. Roman to Integer                                       | [Solution](./roman-to-integer)                                     | Easy       |
 | 485. Max Consecutive Ones                                  | [Solution](./max-consecutive-ones)                                 | Easy       |
 | 509. Fibonacci Number                                      | [Solution](./fibonacci-number)                                     | Easy       |
