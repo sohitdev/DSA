@@ -15,6 +15,13 @@ Return the number of unique paths the robot can take.
 
 ## Explanation
 
+### Space Optimization
+
+Use a one-dimensional DP array. Each `dp[j]` stores the number of ways to reach the current row's cell, and adding `dp[j - 1]` incorporates the left cell.
+
+- **Time Complexity:** O(m * n).
+- **Space Complexity:** O(n).
+
 ### Tabulation
 
 Build a 2D `dp` table where `dp[i][j]` stores the number of ways to reach cell `(i, j)`.
