@@ -25,6 +25,7 @@ Here is a summary of the problems I've solved so far:
 | 63. Unique Paths II                                        | [Solution](./unique-paths-ii)                                      | Medium     |
 | 64. Minimum Path Sum                                       | [Solution](./min-path-sum)                                         | Medium     |
 | 120. Triangle                                             | [Solution](./triangle)                                             | Medium     |
+| 931. Minimum Falling Path Sum                              | [Solution](./minimum-falling-path-sum)                             | Medium     |
 | 13. Roman to Integer                                       | [Solution](./roman-to-integer)                                     | Easy       |
 | 485. Max Consecutive Ones                                  | [Solution](./max-consecutive-ones)                                 | Easy       |
 | 509. Fibonacci Number                                      | [Solution](./fibonacci-number)                                     | Easy       |
