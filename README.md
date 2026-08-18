@@ -27,6 +27,7 @@ Here is a summary of the problems I've solved so far:
 | 120. Triangle                                             | [Solution](./triangle)                                             | Medium     |
 | 931. Minimum Falling Path Sum                              | [Solution](./minimum-falling-path-sum)                             | Medium     |
 | 1463. Cherry Pickup II                                     | [Solution](./cherry-pickup-ii)                                    | Hard       |
+| Subset Sum Problem                                        | [Solution](./subset-sum-problem)                                  | Medium     |
 | 13. Roman to Integer                                       | [Solution](./roman-to-integer)                                     | Easy       |
 | 485. Max Consecutive Ones                                  | [Solution](./max-consecutive-ones)                                 | Easy       |
 | 509. Fibonacci Number                                      | [Solution](./fibonacci-number)                                     | Easy       |
