@@ -16,116 +16,116 @@ I am currently solving problems mainly in Java. Some older solutions are still a
 
 Here is a summary of the problems I've solved so far:
 
-| Problem                                                    | Solution & Explanation                                             | Difficulty |
-| :--------------------------------------------------------- | :----------------------------------------------------------------- | :--------- |
-| [Two Sum](https://leetcode.com/problems/two-sum/)          | [Solution](./two-sum/)                                             | Easy       |
-| 198. House Robber                                         | [Solution](./house-robber)                                        | Medium     |
-| 213. House Robber II                                      | [Solution](./house-robber-ii)                                     | Medium     |
-| 62. Unique Paths                                           | [Solution](./unique-paths)                                         | Medium     |
-| 63. Unique Paths II                                        | [Solution](./unique-paths-ii)                                      | Medium     |
-| 64. Minimum Path Sum                                       | [Solution](./min-path-sum)                                         | Medium     |
-| 120. Triangle                                             | [Solution](./triangle)                                             | Medium     |
-| 931. Minimum Falling Path Sum                              | [Solution](./minimum-falling-path-sum)                             | Medium     |
-| 1463. Cherry Pickup II                                     | [Solution](./cherry-pickup-ii)                                    | Hard       |
-| Subset Sum Problem                                        | [Solution](./subset-sum-problem)                                  | Medium     |
-| Perfect Sum Problem                                       | [Solution](./perfect-sum-problem)                                 | Medium     |
-| 13. Roman to Integer                                       | [Solution](./roman-to-integer)                                     | Easy       |
-| 485. Max Consecutive Ones                                  | [Solution](./max-consecutive-ones)                                 | Easy       |
-| 509. Fibonacci Number                                      | [Solution](./fibonacci-number)                                     | Easy       |
-| 70. Climbing Stairs                                        | [Solution](./climb-stairs)                                         | Easy       |
-| 1423. Maximum Points You Can Obtain from Cards             | [Solution](./maximum-points-you-can-obtain-from-cards)             | Medium     |
-| 3. Longest Substring Without Repeating Characters          | [Solution](./longest-substring-without-repeating-characters)       | Medium     |
-| 1004. Max Consecutive Ones III                             | [Solution](./max-consecutive-ones-iii)                             | Medium     |
-| 904. Fruit Into Baskets                                    | [Solution](./fruit-into-baskets)                                   | Medium     |
-| 424. Longest Repeating Character Replacement               | [Solution](./longest-repeating-character-replacement)              | Medium     |
-| 930. Binary Subarrays With Sum                             | [Solution](./binary-subarrays-with-sum)                            | Medium     |
-| 1248. Count Number of Nice Subarrays                       | [Solution](./count-number-of-nice-subarrays)                       | Medium     |
-| 1358. Number of Substrings Containing All Three Characters | [Solution](./number-of-substrings-containing-all-three-characters) | Medium     |
-| 144. Binary Tree Preorder Traversal                        | [Solution](./binary-tree-preorder-traversal)                       | Easy       |
-| 94. Binary Tree Inorder Traversal                          | [Solution](./binary-tree-inorder-traversal)                        | Easy       |
-| 145. Binary Tree Postorder Traversal                       | [Solution](./binary-tree-postorder-traversal)                      | Easy       |
-| 102. Binary Tree Level Order Traversal                     | [Solution](./binary-tree-level-order-traversal)                    | Medium     |
-| 103. Binary Tree Zigzag Level Order Traversal              | [Solution](./binary-tree-zigzag-level-order-traversal)             | Medium     |
-| 199. Binary Tree Right Side View                           | [Solution](./binary-tree-right-side-view)                          | Medium     |
-| 987. Vertical Order Traversal of a Binary Tree             | [Solution](./vertical-order-traversal-of-a-binary-tree)            | Hard       |
-| Top View of Binary Tree                                    | [Solution](./top-view-of-binary-tree)                              | Medium     |
-| Bottom View of Binary Tree                                 | [Solution](./bottom-view-of-binary-tree)                           | Medium     |
-| 104. Maximum Depth of Binary Tree                          | [Solution](./maximum-depth-of-binary-tree)                         | Easy       |
-| 100. Same Tree                                             | [Solution](./same-tree)                                            | Easy       |
-| 101. Symmetric Tree                                        | [Solution](./symmetric-tree)                                       | Easy       |
-| 700. Search in a Binary Search Tree                        | [Solution](./search-in-a-binary-search-tree)                       | Easy       |
-| 701. Insert into a Binary Search Tree                       | [Solution](./insert-into-a-binary-search-tree)                     | Medium     |
-| 450. Delete Node in a BST                                  | [Solution](./delete-node-in-a-bst)                                 | Medium     |
-| 230. Kth Smallest Element in a BST                         | [Solution](./kth-smallest-element-in-a-bst)                        | Medium     |
-| Floor in BST                                               | [Solution](./floor-in-bst)                                         | Easy       |
-| Ceil in BST                                                | [Solution](./ceil-in-bst)                                          | Easy       |
-| 110. Balanced Binary Tree                                 | [Solution](./balanced-binary-tree)                                | Easy       |
-| 543. Diameter of Binary Tree                               | [Solution](./diameter-of-binary-tree)                              | Easy       |
-| 545. Boundary of Binary Tree                               | [Solution](./boundary-of-binary-tree)                              | Medium     |
-| 124. Binary Tree Maximum Path Sum                          | [Solution](./binary-tree-maximum-path-sum)                         | Hard       |
-| 98. Validate Binary Search Tree                            | [Solution](./validate-binary-search-tree)                          | Medium     |
-| 235. Lowest Common Ancestor of a Binary Search Tree        | [Solution](./lowest-common-ancestor-of-a-binary-search-tree)       | Medium     |
-| 1008. Construct Binary Search Tree from Preorder Traversal | [Solution](./construct-binary-search-tree-from-preorder-traversal) | Medium     |
-| 173. Binary Search Tree Iterator                           | [Solution](./binary-search-tree-iterator)                          | Medium     |
-| 653. Two Sum IV - Input is a BST                           | [Solution](./two-sum-iv-input-is-a-bst)                            | Easy       |
-| 99. Recover Binary Search Tree                             | [Solution](./recover-binary-search-tree)                           | Medium     |
-| 1373. Maximum Sum BST in Binary Tree                       | [Solution](./maximum-sum-bst-in-binary-tree)                       | Hard       |
-| 455. Assign Cookies                                        | [Solution](./assign-cookies)                                       | Easy       |
-| Fractional Knapsack                                        | [Solution](./fractional-knapsack)                                  | Medium     |
-| 860. Lemonade Change                                       | [Solution](./lemonade-change)                                      | Easy       |
-| 678. Valid Parenthesis String                              | [Solution](./valid-parenthesis-string)                             | Medium     |
-| N Meetings in One Room                                     | [Solution](./n-meetings-in-one-room)                               | Easy       |
-| 55. Jump Game                                              | [Solution](./jump-game)                                            | Medium     |
-| 45. Jump Game II                                           | [Solution](./jump-game-ii)                                         | Medium     |
-| Minimum Number of Platforms                                | [Solution](./minimum-number-of-platforms)                          | Medium     |
-| Job Sequencing Problem                                     | [Solution](./job-sequencing-problem)                               | Medium     |
-| 135. Candy                                                 | [Solution](./candy)                                                | Hard       |
-| Implement Min Heap                                         | [Solution](./implement-min-heap)                                   | Easy       |
-| Check if an Array Represents a Max Heap                    | [Solution](./check-if-array-represents-max-heap)                   | Easy       |
-| 23. Merge K Sorted Lists                                   | [Solution](./merge-k-sorted-lists)                                 | Hard       |
-| 1331. Rank Transform of an Array                           | [Solution](./rank-transform-of-an-array)                           | Easy       |
-| 21. Merge Two Sorted Lists                                 | [Solution](./merge-two-sorted-lists)                               | Easy       |
-| 621. Task Scheduler                                        | [Solution](./task-scheduler)                                       | Medium     |
-| 846. Hand of Straights                                     | [Solution](./hand-of-straights)                                    | Medium     |
-| BFS of Graph                                               | [Solution](./bfs-of-graph)                                         | Easy       |
-| DFS of Graph                                               | [Solution](./dfs-of-graph)                                         | Easy       |
-| 547. Number of Provinces                                   | [Solution](./number-of-provinces)                                  | Medium     |
-| 1319. Number of Operations to Make Network Connected        | [Solution](./number-of-operations-to-make-network-connected)       | Medium     |
-| Connected Components in an Undirected Graph                | [Solution](./connected-components-in-an-undirected-graph)          | Medium     |
-| 2685. Count the Number of Complete Components              | [Solution](./count-the-number-of-complete-components)              | Medium     |
-| 994. Rotting Oranges                                       | [Solution](./rotting-oranges)                                      | Medium     |
-| 733. Flood Fill                                            | [Solution](./flood-fill)                                           | Easy       |
-| Detect Cycle in an Undirected Graph                        | [Solution](./detect-cycle-in-an-undirected-graph)                  | Medium     |
-| 542. 01 Matrix                                             | [Solution](./01-matrix)                                            | Medium     |
-| 130. Surrounded Regions                                    | [Solution](./surrounded-regions)                                   | Medium     |
-| 1020. Number of Enclaves                                   | [Solution](./number-of-enclaves)                                   | Medium     |
-| 200. Number of Islands                                     | [Solution](./number-of-islands)                                    | Medium     |
-| 785. Is Graph Bipartite?                                   | [Solution](./is-graph-bipartite)                                   | Medium     |
-| Detect Cycle in a Directed Graph                           | [Solution](./detect-cycle-in-a-directed-graph)                     | Medium     |
-| Topological Sort                                           | [Solution](./topological-sort)                                     | Medium     |
-| 207. Course Schedule                                       | [Solution](./course-schedule)                                      | Medium     |
-| 210. Course Schedule II                                    | [Solution](./course-schedule-ii)                                   | Medium     |
-| 802. Find Eventual Safe States                             | [Solution](./find-eventual-safe-states)                            | Medium     |
-| Alien Dictionary                                           | [Solution](./alien-dictionary)                                     | Hard       |
-| Shortest Path in Undirected Graph                          | [Solution](./shortest-path-in-undirected-graph)                    | Medium     |
-| Shortest Path in a DAG                                     | [Solution](./shortest-path-in-dag)                                 | Medium     |
-| 127. Word Ladder                                           | [Solution](./word-ladder)                                          | Hard       |
-| Dijkstra's Algorithm                                       | [Solution](./dijkstras-algorithm)                                  | Medium     |
-| Shortest Path in a Binary Maze                             | [Solution](./shortest-path-in-a-binary-maze)                       | Medium     |
-| 1091. Shortest Path in Binary Matrix                       | [Solution](./shortest-path-in-binary-matrix)                       | Medium     |
-| 1631. Path With Minimum Effort                             | [Solution](./path-with-minimum-effort)                             | Medium     |
-| 787. Cheapest Flights Within K Stops                       | [Solution](./cheapest-flights-within-k-stops)                      | Medium     |
-| 743. Network Delay Time                                    | [Solution](./network-delay-time)                                   | Medium     |
-| 1976. Number of Ways to Arrive at Destination              | [Solution](./number-of-ways-to-arrive-at-destination)              | Medium     |
-| Minimum Steps to Reach End                                 | [Solution](./minimum-steps-to-reach-end)                           | Medium     |
-| Frog Jump                                                  | [Solution](./frog-jump)                                            | Medium     |
-| Bellman-Ford Algorithm                                     | [Solution](./bellman-ford-algorithm)                               | Medium     |
-| Floyd-Warshall Algorithm                                   | [Solution](./floyd-warshall-algorithm)                             | Medium     |
-| 1334. Find the City With the Smallest Number of Neighbors at a Threshold Distance | [Solution](./find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) | Medium |
-| Maximum Pair Strength                                      | [Solution](./maximum-pair-strength)                                | Medium     |
-| Count Subarrays With Even and Odd Ratio                    | [Solution](./count-subarrays-with-even-and-odd-ratio)              | Medium     |
-| 3731. Find Missing Elements                                | [Solution](./find-missing-elements)                                | Easy       |
-| Minimum Spanning Tree (Kruskal's Algorithm)                | [Solution](./minimum-spanning-tree)                                | Medium     |
+| Problem                                                                           | Solution & Explanation                                                                    | Difficulty |
+| :-------------------------------------------------------------------------------- | :---------------------------------------------------------------------------------------- | :--------- |
+| [Two Sum](https://leetcode.com/problems/two-sum/)                                 | [Solution](./two-sum/)                                                                    | Easy       |
+| 198. House Robber                                                                 | [Solution](./house-robber)                                                                | Medium     |
+| 213. House Robber II                                                              | [Solution](./house-robber-ii)                                                             | Medium     |
+| 62. Unique Paths                                                                  | [Solution](./unique-paths)                                                                | Medium     |
+| 63. Unique Paths II                                                               | [Solution](./unique-paths-ii)                                                             | Medium     |
+| 64. Minimum Path Sum                                                              | [Solution](./min-path-sum)                                                                | Medium     |
+| 120. Triangle                                                                     | [Solution](./triangle)                                                                    | Medium     |
+| 931. Minimum Falling Path Sum                                                     | [Solution](./minimum-falling-path-sum)                                                    | Medium     |
+| 1463. Cherry Pickup II                                                            | [Solution](./cherry-pickup-ii)                                                            | Hard       |
+| Subset Sum Problem                                                                | [Solution](./subset-sum-problem)                                                          | Medium     |
+| Perfect Sum Problem                                                               | [Solution](./perfect-sum-problem)                                                         | Medium     |
+| 13. Roman to Integer                                                              | [Solution](./roman-to-integer)                                                            | Easy       |
+| 485. Max Consecutive Ones                                                         | [Solution](./max-consecutive-ones)                                                        | Easy       |
+| 509. Fibonacci Number                                                             | [Solution](./fibonacci-number)                                                            | Easy       |
+| 70. Climbing Stairs                                                               | [Solution](./climb-stairs)                                                                | Easy       |
+| 1423. Maximum Points You Can Obtain from Cards                                    | [Solution](./maximum-points-you-can-obtain-from-cards)                                    | Medium     |
+| 3. Longest Substring Without Repeating Characters                                 | [Solution](./longest-substring-without-repeating-characters)                              | Medium     |
+| 1004. Max Consecutive Ones III                                                    | [Solution](./max-consecutive-ones-iii)                                                    | Medium     |
+| 904. Fruit Into Baskets                                                           | [Solution](./fruit-into-baskets)                                                          | Medium     |
+| 424. Longest Repeating Character Replacement                                      | [Solution](./longest-repeating-character-replacement)                                     | Medium     |
+| 930. Binary Subarrays With Sum                                                    | [Solution](./binary-subarrays-with-sum)                                                   | Medium     |
+| 1248. Count Number of Nice Subarrays                                              | [Solution](./count-number-of-nice-subarrays)                                              | Medium     |
+| 1358. Number of Substrings Containing All Three Characters                        | [Solution](./number-of-substrings-containing-all-three-characters)                        | Medium     |
+| 144. Binary Tree Preorder Traversal                                               | [Solution](./binary-tree-preorder-traversal)                                              | Easy       |
+| 94. Binary Tree Inorder Traversal                                                 | [Solution](./binary-tree-inorder-traversal)                                               | Easy       |
+| 145. Binary Tree Postorder Traversal                                              | [Solution](./binary-tree-postorder-traversal)                                             | Easy       |
+| 102. Binary Tree Level Order Traversal                                            | [Solution](./binary-tree-level-order-traversal)                                           | Medium     |
+| 103. Binary Tree Zigzag Level Order Traversal                                     | [Solution](./binary-tree-zigzag-level-order-traversal)                                    | Medium     |
+| 199. Binary Tree Right Side View                                                  | [Solution](./binary-tree-right-side-view)                                                 | Medium     |
+| 987. Vertical Order Traversal of a Binary Tree                                    | [Solution](./vertical-order-traversal-of-a-binary-tree)                                   | Hard       |
+| Top View of Binary Tree                                                           | [Solution](./top-view-of-binary-tree)                                                     | Medium     |
+| Bottom View of Binary Tree                                                        | [Solution](./bottom-view-of-binary-tree)                                                  | Medium     |
+| 104. Maximum Depth of Binary Tree                                                 | [Solution](./maximum-depth-of-binary-tree)                                                | Easy       |
+| 100. Same Tree                                                                    | [Solution](./same-tree)                                                                   | Easy       |
+| 101. Symmetric Tree                                                               | [Solution](./symmetric-tree)                                                              | Easy       |
+| 700. Search in a Binary Search Tree                                               | [Solution](./search-in-a-binary-search-tree)                                              | Easy       |
+| 701. Insert into a Binary Search Tree                                             | [Solution](./insert-into-a-binary-search-tree)                                            | Medium     |
+| 450. Delete Node in a BST                                                         | [Solution](./delete-node-in-a-bst)                                                        | Medium     |
+| 230. Kth Smallest Element in a BST                                                | [Solution](./kth-smallest-element-in-a-bst)                                               | Medium     |
+| Floor in BST                                                                      | [Solution](./floor-in-bst)                                                                | Easy       |
+| Ceil in BST                                                                       | [Solution](./ceil-in-bst)                                                                 | Easy       |
+| 110. Balanced Binary Tree                                                         | [Solution](./balanced-binary-tree)                                                        | Easy       |
+| 543. Diameter of Binary Tree                                                      | [Solution](./diameter-of-binary-tree)                                                     | Easy       |
+| 545. Boundary of Binary Tree                                                      | [Solution](./boundary-of-binary-tree)                                                     | Medium     |
+| 124. Binary Tree Maximum Path Sum                                                 | [Solution](./binary-tree-maximum-path-sum)                                                | Hard       |
+| 98. Validate Binary Search Tree                                                   | [Solution](./validate-binary-search-tree)                                                 | Medium     |
+| 235. Lowest Common Ancestor of a Binary Search Tree                               | [Solution](./lowest-common-ancestor-of-a-binary-search-tree)                              | Medium     |
+| 1008. Construct Binary Search Tree from Preorder Traversal                        | [Solution](./construct-binary-search-tree-from-preorder-traversal)                        | Medium     |
+| 173. Binary Search Tree Iterator                                                  | [Solution](./binary-search-tree-iterator)                                                 | Medium     |
+| 653. Two Sum IV - Input is a BST                                                  | [Solution](./two-sum-iv-input-is-a-bst)                                                   | Easy       |
+| 99. Recover Binary Search Tree                                                    | [Solution](./recover-binary-search-tree)                                                  | Medium     |
+| 1373. Maximum Sum BST in Binary Tree                                              | [Solution](./maximum-sum-bst-in-binary-tree)                                              | Hard       |
+| 455. Assign Cookies                                                               | [Solution](./assign-cookies)                                                              | Easy       |
+| Fractional Knapsack                                                               | [Solution](./fractional-knapsack)                                                         | Medium     |
+| 860. Lemonade Change                                                              | [Solution](./lemonade-change)                                                             | Easy       |
+| 678. Valid Parenthesis String                                                     | [Solution](./valid-parenthesis-string)                                                    | Medium     |
+| N Meetings in One Room                                                            | [Solution](./n-meetings-in-one-room)                                                      | Easy       |
+| 55. Jump Game                                                                     | [Solution](./jump-game)                                                                   | Medium     |
+| 45. Jump Game II                                                                  | [Solution](./jump-game-ii)                                                                | Medium     |
+| Minimum Number of Platforms                                                       | [Solution](./minimum-number-of-platforms)                                                 | Medium     |
+| Job Sequencing Problem                                                            | [Solution](./job-sequencing-problem)                                                      | Medium     |
+| 135. Candy                                                                        | [Solution](./candy)                                                                       | Hard       |
+| Implement Min Heap                                                                | [Solution](./implement-min-heap)                                                          | Easy       |
+| Check if an Array Represents a Max Heap                                           | [Solution](./check-if-array-represents-max-heap)                                          | Easy       |
+| 23. Merge K Sorted Lists                                                          | [Solution](./merge-k-sorted-lists)                                                        | Hard       |
+| 1331. Rank Transform of an Array                                                  | [Solution](./rank-transform-of-an-array)                                                  | Easy       |
+| 21. Merge Two Sorted Lists                                                        | [Solution](./merge-two-sorted-lists)                                                      | Easy       |
+| 621. Task Scheduler                                                               | [Solution](./task-scheduler)                                                              | Medium     |
+| 846. Hand of Straights                                                            | [Solution](./hand-of-straights)                                                           | Medium     |
+| BFS of Graph                                                                      | [Solution](./bfs-of-graph)                                                                | Easy       |
+| DFS of Graph                                                                      | [Solution](./dfs-of-graph)                                                                | Easy       |
+| 547. Number of Provinces                                                          | [Solution](./number-of-provinces)                                                         | Medium     |
+| 1319. Number of Operations to Make Network Connected                              | [Solution](./number-of-operations-to-make-network-connected)                              | Medium     |
+| Connected Components in an Undirected Graph                                       | [Solution](./connected-components-in-an-undirected-graph)                                 | Medium     |
+| 2685. Count the Number of Complete Components                                     | [Solution](./count-the-number-of-complete-components)                                     | Medium     |
+| 994. Rotting Oranges                                                              | [Solution](./rotting-oranges)                                                             | Medium     |
+| 733. Flood Fill                                                                   | [Solution](./flood-fill)                                                                  | Easy       |
+| Detect Cycle in an Undirected Graph                                               | [Solution](./detect-cycle-in-an-undirected-graph)                                         | Medium     |
+| 542. 01 Matrix                                                                    | [Solution](./01-matrix)                                                                   | Medium     |
+| 130. Surrounded Regions                                                           | [Solution](./surrounded-regions)                                                          | Medium     |
+| 1020. Number of Enclaves                                                          | [Solution](./number-of-enclaves)                                                          | Medium     |
+| 200. Number of Islands                                                            | [Solution](./number-of-islands)                                                           | Medium     |
+| 785. Is Graph Bipartite?                                                          | [Solution](./is-graph-bipartite)                                                          | Medium     |
+| Detect Cycle in a Directed Graph                                                  | [Solution](./detect-cycle-in-a-directed-graph)                                            | Medium     |
+| Topological Sort                                                                  | [Solution](./topological-sort)                                                            | Medium     |
+| 207. Course Schedule                                                              | [Solution](./course-schedule)                                                             | Medium     |
+| 210. Course Schedule II                                                           | [Solution](./course-schedule-ii)                                                          | Medium     |
+| 802. Find Eventual Safe States                                                    | [Solution](./find-eventual-safe-states)                                                   | Medium     |
+| Alien Dictionary                                                                  | [Solution](./alien-dictionary)                                                            | Hard       |
+| Shortest Path in Undirected Graph                                                 | [Solution](./shortest-path-in-undirected-graph)                                           | Medium     |
+| Shortest Path in a DAG                                                            | [Solution](./shortest-path-in-dag)                                                        | Medium     |
+| 127. Word Ladder                                                                  | [Solution](./word-ladder)                                                                 | Hard       |
+| Dijkstra's Algorithm                                                              | [Solution](./dijkstras-algorithm)                                                         | Medium     |
+| Shortest Path in a Binary Maze                                                    | [Solution](./shortest-path-in-a-binary-maze)                                              | Medium     |
+| 1091. Shortest Path in Binary Matrix                                              | [Solution](./shortest-path-in-binary-matrix)                                              | Medium     |
+| 1631. Path With Minimum Effort                                                    | [Solution](./path-with-minimum-effort)                                                    | Medium     |
+| 787. Cheapest Flights Within K Stops                                              | [Solution](./cheapest-flights-within-k-stops)                                             | Medium     |
+| 743. Network Delay Time                                                           | [Solution](./network-delay-time)                                                          | Medium     |
+| 1976. Number of Ways to Arrive at Destination                                     | [Solution](./number-of-ways-to-arrive-at-destination)                                     | Medium     |
+| Minimum Steps to Reach End                                                        | [Solution](./minimum-steps-to-reach-end)                                                  | Medium     |
+| Frog Jump                                                                         | [Solution](./frog-jump)                                                                   | Medium     |
+| Bellman-Ford Algorithm                                                            | [Solution](./bellman-ford-algorithm)                                                      | Medium     |
+| Floyd-Warshall Algorithm                                                          | [Solution](./floyd-warshall-algorithm)                                                    | Medium     |
+| 1334. Find the City With the Smallest Number of Neighbors at a Threshold Distance | [Solution](./find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) | Medium     |
+| Maximum Pair Strength                                                             | [Solution](./maximum-pair-strength)                                                       | Medium     |
+| Count Subarrays With Even and Odd Ratio                                           | [Solution](./count-subarrays-with-even-and-odd-ratio)                                     | Medium     |
+| 3731. Find Missing Elements                                                       | [Solution](./find-missing-elements)                                                       | Easy       |
+| Minimum Spanning Tree (Kruskal's Algorithm)                                       | [Solution](./minimum-spanning-tree)                                                       | Medium     |
 
 ## How to Use
 

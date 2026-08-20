@@ -14,15 +14,15 @@ For `arr = [5, 2, 3, 10, 6, 8]` and `target = 10`, the answer is `3` because the
 
 Build a DP table where `dp[i][s]` stores the number of subsets that form sum `s` using elements through index `i`. Initialize sum `0` as achievable by the empty subset. For each element, add the counts from skipping it and taking it when its value does not exceed the current sum. The first element equal to zero contributes two choices: take it or skip it.
 
-- **Time Complexity:** O(n * target).
-- **Space Complexity:** O(n * target).
+- **Time Complexity:** O(n \* target).
+- **Space Complexity:** O(n \* target).
 
 ### Memoization
 
 Recursively consider taking or skipping each element. Cache each `(index, sum)` state so that every state is computed only once.
 
-- **Time Complexity:** O(n * target).
-- **Space Complexity:** O(n * target), including the memoization table and recursion stack.
+- **Time Complexity:** O(n \* target).
+- **Space Complexity:** O(n \* target), including the memoization table and recursion stack.
 
 ### Recursive Approach
 
