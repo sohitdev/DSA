@@ -126,6 +126,7 @@ Here is a summary of the problems I've solved so far:
 | Count Subarrays With Even and Odd Ratio                                           | [Solution](./count-subarrays-with-even-and-odd-ratio)                                     | Medium     |
 | 3731. Find Missing Elements                                                       | [Solution](./find-missing-elements)                                                       | Easy       |
 | Minimum Spanning Tree (Kruskal's Algorithm)                                       | [Solution](./minimum-spanning-tree)                                                       | Medium     |
+| 3622. Check Divisibility by Digit Sum and Product                                 | [Solution](./check-divisibility-by-digit-sum-and-product)                                 | Easy       |
 
 ## How to Use
 
