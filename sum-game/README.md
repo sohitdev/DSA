@@ -54,11 +54,13 @@ Assuming both players play optimally, return `true` if Alice will win and `false
 Compute the total known digit sum and wildcard count in each half. The outcome depends only on how much the right half must gain or lose against the left half after all `?` are assigned, and whether the number of unknowns is odd.
 
 **Algorithm:**
+
 1. Scan the left half and right half separately to count `?` characters and sum the fixed digits.
 2. Let `qL`, `qR` be the counts of unknowns and `sumL`, `sumR` be the known sums in each half.
 3. If the total number of `?` is odd, Alice makes the final move and wins.
 4. Otherwise, Bob wins only when the equation `2 * (sumR - sumL) == 9 * (qL - qR)` holds; if it does not, Alice wins.
 
 **Complexity:**
+
 - **Time:** O(n) — one pass through the string.
 - **Space:** O(1) — a fixed number of counters.

@@ -127,7 +127,7 @@ Here is a summary of the problems I've solved so far:
 | 3731. Find Missing Elements                                                       | [Solution](./find-missing-elements)                                                       | Easy       |
 | Minimum Spanning Tree (Kruskal's Algorithm)                                       | [Solution](./minimum-spanning-tree)                                                       | Medium     |
 | 3622. Check Divisibility by Digit Sum and Product                                 | [Solution](./check-divisibility-by-digit-sum-and-product)                                 | Easy       |
-| 1927. Sum Game                                                                    | [Solution](./sum-game)                                                                     | Medium     |
+| 1927. Sum Game                                                                    | [Solution](./sum-game)                                                                    | Medium     |
 
 ## How to Use
 
