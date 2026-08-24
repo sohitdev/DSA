@@ -72,6 +72,7 @@ Here is a summary of the problems I've solved so far:
 | 1373. Maximum Sum BST in Binary Tree                                              | [Solution](./maximum-sum-bst-in-binary-tree)                                              | Hard       |
 | 455. Assign Cookies                                                               | [Solution](./assign-cookies)                                                              | Easy       |
 | Fractional Knapsack                                                               | [Solution](./fractional-knapsack)                                                         | Medium     |
+| 0/1 Knapsack Problem                                                              | [Solution](./0-1-knapsack)                                                                | Medium     |
 | 860. Lemonade Change                                                              | [Solution](./lemonade-change)                                                             | Easy       |
 | 678. Valid Parenthesis String                                                     | [Solution](./valid-parenthesis-string)                                                    | Medium     |
 | N Meetings in One Room                                                            | [Solution](./n-meetings-in-one-room)                                                      | Easy       |
