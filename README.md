@@ -129,6 +129,7 @@ Here is a summary of the problems I've solved so far:
 | Minimum Spanning Tree (Kruskal's Algorithm)                                       | [Solution](./minimum-spanning-tree)                                                       | Medium     |
 | 3622. Check Divisibility by Digit Sum and Product                                 | [Solution](./check-divisibility-by-digit-sum-and-product)                                 | Easy       |
 | 494. Target Sum                                                                   | [Solution](./target-sum)                                                                  | Medium     |
+| 518. Coin Change II                                                               | [Solution](./coin-change-ii)                                                              | Medium     |
 | 1927. Sum Game                                                                    | [Solution](./sum-game)                                                                    | Medium     |
 
 ## How to Use
