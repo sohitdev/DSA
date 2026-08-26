@@ -132,6 +132,7 @@ Here is a summary of the problems I've solved so far:
 | 518. Coin Change II                                                               | [Solution](./coin-change-ii)                                                              | Medium     |
 | 1927. Sum Game                                                                    | [Solution](./sum-game)                                                                    | Medium     |
 | Unbounded Knapsack                                                                | [Solution](./unbounded-knapsack)                                                          | Medium     |
+| Rod Cutting                                                                        | [Solution](./rod-cutting)                                                                 | Medium     |
 
 ## How to Use
 
