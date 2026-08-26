@@ -34,7 +34,25 @@ Given `n` items, each with a weight `wt[i]` and value `val[i]`, and a knapsack o
 
 ---
 
-### Approach 4: Space Optimized — 1D Rolling Array (Active)
+### Approach 5: Most Optimal — True 1D In-Place DP (Active)
+
+**Idea:**
+Since unbounded knapsack allows re-picking the same item, `prev[w - wt[i]]` (already updated in the current pass) gives the correct value for the `take` transition. This means a single `prev` array can be updated in-place — no `curr` array needed at all. This is the most space-efficient solution.
+
+**Algorithm:**
+1. Initialize `prev[w] = (w / wt[0]) * val[0]` for all `w`.
+2. For each item `i` from 1 to n-1:
+   - For each capacity `w`: compute `skip = prev[w]`, `take = val[i] + prev[w - wt[i]]` (if fits).
+   - Update `prev[w] = max(skip, take)` in-place.
+3. Return `prev[capacity]`.
+
+**Complexity:**
+- **Time:** O(n × capacity) — two nested loops.
+- **Space:** O(capacity) — single 1D array, no extra `curr` allocation.
+
+---
+
+### Approach 4: Space Optimized — 1D Rolling Array (two arrays)
 
 **Idea:**
 Instead of storing the full 2D DP table, maintain only two 1D arrays: `prev` (previous row) and `curr` (current row). Since the unbounded knapsack allows re-picking the same item, `curr[w - wt[i]]` is used for the `take` transition (pulling from the current row, not the previous one).

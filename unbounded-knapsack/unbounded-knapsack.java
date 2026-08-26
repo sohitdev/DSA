@@ -1,4 +1,34 @@
-// ===== Approach 4: Space Optimized — 1D Rolling Array =====
+// ===== Approach 5: Most Optimal — True 1D In-Place DP (single array) =====
+// Time Complexity: O(n × capacity) | Space Complexity: O(capacity)
+class Solution {
+	public int knapSack(int val[], int wt[], int capacity) {
+		int n = val.length;
+		
+		int[] prev = new int[capacity + 1];
+		
+		for (int w = 0; w <= capacity; w++) {
+				prev[w] = (w/wt[0])*val[0];
+		}
+		
+		for (int i = 1; i<n; i++) {
+		    int[] curr = new int[capacity+1];
+			for (int w = 0; w <= capacity; w++) {
+				
+				int skip = prev[w];
+				int take = Integer.MIN_VALUE;
+				if (wt[i] <= w)
+					take = val[i] + prev[w - wt[i]];
+				
+				prev[w] = Math.max(skip, take);
+			}
+		}
+		
+		return prev[capacity];
+	}
+}
+
+/*
+// ===== Approach 4: Space Optimized — 1D Rolling Array (two arrays) =====
 // Time Complexity: O(n × capacity) | Space Complexity: O(capacity)
 class Solution {
 	public int knapSack(int val[], int wt[], int capacity) {
@@ -27,6 +57,7 @@ class Solution {
 		return prev[capacity];
 	}
 }
+*/
 
 /*
 // ===== Approach 3: Tabulation — 2D Bottom-Up DP =====
