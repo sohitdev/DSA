@@ -133,6 +133,7 @@ Here is a summary of the problems I've solved so far:
 | 1927. Sum Game                                                                    | [Solution](./sum-game)                                                                    | Medium     |
 | Unbounded Knapsack                                                                | [Solution](./unbounded-knapsack)                                                          | Medium     |
 | Rod Cutting                                                                        | [Solution](./rod-cutting)                                                                 | Medium     |
+| 1143. Longest Common Subsequence                                                   | [Solution](./longest-common-subsequence)                                                 | Medium     |
 
 ## How to Use
 
