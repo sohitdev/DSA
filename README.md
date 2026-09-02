@@ -134,6 +134,7 @@ Here is a summary of the problems I've solved so far:
 | Unbounded Knapsack                                                                | [Solution](./unbounded-knapsack)                                                          | Medium     |
 | Rod Cutting                                                                        | [Solution](./rod-cutting)                                                                 | Medium     |
 | 1143. Longest Common Subsequence                                                   | [Solution](./longest-common-subsequence)                                                 | Medium     |
+| 1092. Shortest Common Supersequence                                                | [Solution](./shortest-common-supersequence)                                              | Hard       |
 
 ## How to Use
 
