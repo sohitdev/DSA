@@ -136,6 +136,7 @@ Here is a summary of the problems I've solved so far:
 | 1143. Longest Common Subsequence                                                   | [Solution](./longest-common-subsequence)                                                 | Medium     |
 | 1092. Shortest Common Supersequence                                                | [Solution](./shortest-common-supersequence)                                              | Hard       |
 | 115. Distinct Subsequences                                                         | [Solution](./distinct-subsequences)                                                      | Hard       |
+| 72. Edit Distance                                                                  | [Solution](./edit-distance)                                                              | Medium     |
 
 ## How to Use
 
