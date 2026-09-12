@@ -144,6 +144,7 @@ Here is a summary of the problems I've solved so far:
 | 309. Best Time to Buy and Sell Stock with Cooldown                                | [Solution](./best-time-to-buy-and-sell-stock-with-cooldown)                              | Medium     |
 | 300. Longest Increasing Subsequence                                                | [Solution](./longest-increasing-subsequence)                                             | Medium     |
 | Printing Longest Increasing Subsequence                                           | [Solution](./printing-longest-increasing-subsequence)                                    | Medium     |
+| 368. Largest Divisible Subset                                                      | [Solution](./largest-divisible-subset)                                                    | Medium     |
 
 ## How to Use
 
