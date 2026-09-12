@@ -145,6 +145,7 @@ Here is a summary of the problems I've solved so far:
 | 300. Longest Increasing Subsequence                                                | [Solution](./longest-increasing-subsequence)                                             | Medium     |
 | Printing Longest Increasing Subsequence                                           | [Solution](./printing-longest-increasing-subsequence)                                    | Medium     |
 | 368. Largest Divisible Subset                                                      | [Solution](./largest-divisible-subset)                                                    | Medium     |
+| 1048. Longest String Chain                                                         | [Solution](./longest-string-chain)                                                       | Medium     |
 
 ## How to Use
 
