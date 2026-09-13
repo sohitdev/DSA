@@ -147,6 +147,7 @@ Here is a summary of the problems I've solved so far:
 | 368. Largest Divisible Subset                                                      | [Solution](./largest-divisible-subset)                                                    | Medium     |
 | 1048. Longest String Chain                                                         | [Solution](./longest-string-chain)                                                       | Medium     |
 | Longest Bitonic Subsequence                                                        | [Solution](./longest-bitonic-subsequence)                                                | Medium     |
+| 673. Number of Longest Increasing Subsequence                                      | [Solution](./number-of-longest-increasing-subsequence)                                   | Medium     |
 
 ## How to Use
 
