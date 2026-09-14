@@ -149,6 +149,7 @@ Here is a summary of the problems I've solved so far:
 | Longest Bitonic Subsequence                                                        | [Solution](./longest-bitonic-subsequence)                                                | Medium     |
 | 673. Number of Longest Increasing Subsequence                                      | [Solution](./number-of-longest-increasing-subsequence)                                   | Medium     |
 | Matrix Chain Multiplication                                                        | [Solution](./matrix-chain-multiplication)                                                | Hard       |
+| 154. Minimum Cost to Cut a Stick | [Solution](./min-cost-to-cut-a-stick) | Hard |
 
 ## How to Use
 
