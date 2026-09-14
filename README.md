@@ -148,6 +148,7 @@ Here is a summary of the problems I've solved so far:
 | 1048. Longest String Chain                                                         | [Solution](./longest-string-chain)                                                       | Medium     |
 | Longest Bitonic Subsequence                                                        | [Solution](./longest-bitonic-subsequence)                                                | Medium     |
 | 673. Number of Longest Increasing Subsequence                                      | [Solution](./number-of-longest-increasing-subsequence)                                   | Medium     |
+| Matrix Chain Multiplication                                                        | [Solution](./matrix-chain-multiplication)                                                | Hard       |
 
 ## How to Use
 
