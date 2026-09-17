@@ -151,6 +151,7 @@ Here is a summary of the problems I've solved so far:
 | Matrix Chain Multiplication                                                        | [Solution](./matrix-chain-multiplication)                                                | Hard       |
 | 154. Minimum Cost to Cut a Stick | [Solution](./min-cost-to-cut-a-stick) | Hard |
 | 312. Burst Balloons                                                                | [Solution](./burst-balloons)                                                             | Hard       |
+| Merge Sort                                                                         | [Solution](./merge-sort)                                                                 | Medium     |
 
 ## How to Use
 
