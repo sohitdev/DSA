@@ -153,6 +153,7 @@ Here is a summary of the problems I've solved so far:
 | 312. Burst Balloons                                                                | [Solution](./burst-balloons)                                                             | Hard       |
 | Merge Sort                                                                         | [Solution](./merge-sort)                                                                 | Medium     |
 | Bubble Sort                                                                        | [Solution](./bubble-sort)                                                                | Easy       |
+| Insertion Sort                                                                     | [Solution](./insertion-sort)                                                             | Easy       |
 
 ## How to Use
 
