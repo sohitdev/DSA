@@ -160,6 +160,7 @@ Here is a summary of the problems I've solved so far:
 | Second Largest Element                                                             | [Solution](./second-largest-element)                                                     | Easy       |
 | 1752. Check if Array Is Sorted and Rotated                                         | [Solution](./check-if-array-is-sorted-and-rotated)                                       | Easy       |
 | 26. Remove Duplicates from Sorted Array                                            | [Solution](./remove-duplicates-from-sorted-array)                                        | Easy       |
+| 189. Rotate Array                                                                  | [Solution](./rotate-array)                                                               | Medium     |
 
 ## How to Use
 
