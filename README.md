@@ -158,6 +158,7 @@ Here is a summary of the problems I've solved so far:
 | Quick Sort                                                                         | [Solution](./quick-sort)                                                                 | Medium     |
 | Largest Element in Array                                                           | [Solution](./largest-element-in-array)                                                   | Easy       |
 | Second Largest Element                                                             | [Solution](./second-largest-element)                                                     | Easy       |
+| 1752. Check if Array Is Sorted and Rotated                                         | [Solution](./check-if-array-is-sorted-and-rotated)                                       | Easy       |
 
 ## How to Use
 
