@@ -156,6 +156,7 @@ Here is a summary of the problems I've solved so far:
 | Insertion Sort                                                                     | [Solution](./insertion-sort)                                                             | Easy       |
 | Selection Sort                                                                     | [Solution](./selection-sort)                                                             | Easy       |
 | Quick Sort                                                                         | [Solution](./quick-sort)                                                                 | Medium     |
+| Largest Element in Array                                                           | [Solution](./largest-element-in-array)                                                   | Easy       |
 
 ## How to Use
 
