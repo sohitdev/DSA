@@ -155,6 +155,7 @@ Here is a summary of the problems I've solved so far:
 | Bubble Sort                                                                        | [Solution](./bubble-sort)                                                                | Easy       |
 | Insertion Sort                                                                     | [Solution](./insertion-sort)                                                             | Easy       |
 | Selection Sort                                                                     | [Solution](./selection-sort)                                                             | Easy       |
+| Quick Sort                                                                         | [Solution](./quick-sort)                                                                 | Medium     |
 
 ## How to Use
 
