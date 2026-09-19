@@ -161,6 +161,7 @@ Here is a summary of the problems I've solved so far:
 | 1752. Check if Array Is Sorted and Rotated                                         | [Solution](./check-if-array-is-sorted-and-rotated)                                       | Easy       |
 | 26. Remove Duplicates from Sorted Array                                            | [Solution](./remove-duplicates-from-sorted-array)                                        | Easy       |
 | 189. Rotate Array                                                                  | [Solution](./rotate-array)                                                               | Medium     |
+| 283. Move Zeroes                                                                   | [Solution](./move-zeroes)                                                                | Easy       |
 
 ## How to Use
 
