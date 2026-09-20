@@ -163,6 +163,7 @@ Here is a summary of the problems I've solved so far:
 | 189. Rotate Array                                                                  | [Solution](./rotate-array)                                                               | Medium     |
 | 283. Move Zeroes                                                                   | [Solution](./move-zeroes)                                                                | Easy       |
 | Linear Search                                                                      | [Solution](./linear-search)                                                              | Easy       |
+| 268. Missing Number                                                                | [Solution](./missing-number)                                                             | Easy       |
 
 ## How to Use
 
