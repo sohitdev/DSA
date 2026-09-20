@@ -162,6 +162,7 @@ Here is a summary of the problems I've solved so far:
 | 26. Remove Duplicates from Sorted Array                                            | [Solution](./remove-duplicates-from-sorted-array)                                        | Easy       |
 | 189. Rotate Array                                                                  | [Solution](./rotate-array)                                                               | Medium     |
 | 283. Move Zeroes                                                                   | [Solution](./move-zeroes)                                                                | Easy       |
+| Linear Search                                                                      | [Solution](./linear-search)                                                              | Easy       |
 
 ## How to Use
 
