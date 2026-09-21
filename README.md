@@ -164,6 +164,7 @@ Here is a summary of the problems I've solved so far:
 | 283. Move Zeroes                                                                   | [Solution](./move-zeroes)                                                                | Easy       |
 | Linear Search                                                                      | [Solution](./linear-search)                                                              | Easy       |
 | 268. Missing Number                                                                | [Solution](./missing-number)                                                             | Easy       |
+| 349. Intersection of Two Arrays                                                    | [Solution](./intersection-of-two-arrays)                                                 | Easy       |
 
 ## How to Use
 
