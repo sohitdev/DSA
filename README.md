@@ -165,6 +165,7 @@ Here is a summary of the problems I've solved so far:
 | Linear Search                                                                      | [Solution](./linear-search)                                                              | Easy       |
 | 268. Missing Number                                                                | [Solution](./missing-number)                                                             | Easy       |
 | 349. Intersection of Two Arrays                                                    | [Solution](./intersection-of-two-arrays)                                                 | Easy       |
+| 169. Majority Element                                                              | [Solution](./majority-element)                                                           | Easy       |
 
 ## How to Use
 
